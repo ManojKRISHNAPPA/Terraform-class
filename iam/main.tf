@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 resource "aws_iam_user" "myUser" {
-    name = "TJ"
+    name = "Manoj"
 }
 
 resource "aws_iam_policy" "customPolicy" {
